@@ -9,3 +9,9 @@
 
 ## Primary Goal
 * The primary goal of reactive architecture is to provide and experience that is responsive under all conditions
+
+## Case Study: Reactive BBQ
+* Started as mom and pop shop
+* Over 500 resturants world wide
+* Software had to grow with it
+* System struggles under its own weight, one application
